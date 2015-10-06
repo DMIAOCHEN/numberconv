@@ -1,0 +1,23 @@
+{
+  "name": "numberconv",
+  "version": "1.0.0",
+  "description": "convert numbers to Arabic numerals",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DMIAOCHEN/numberconv.git"
+  },
+  "keywords": [
+    "number",
+    "convert"
+  ],
+  "author": "DMIAOCHEN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DMIAOCHEN/numberconv/issues"
+  },
+  "homepage": "https://github.com/DMIAOCHEN/numberconv#readme"
+}
